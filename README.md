@@ -1,4 +1,14 @@
-- 优化版
+qiime2 gut-to-soil 流程， 优化版
+> 原教程：<https://amplicon-docs.qiime2.org/en/stable/tutorials/gut-to-soil.html#BXKp4yAIUR>
+
+- 环境(docker):
+```shell
+$ docker images | grep "qiime2"
+WARNING: This output is designed for human readability. For machine-readable output, please use --format.
+quay.io/qiime2/amplicon:2026.1   d4ddc1d2fe43       10.4GB         2.79GB   U
+```
+- qiime2版本: amplicon:2026.1
+
 
 ```shell
 # 1. 环境准备与目录初始化
