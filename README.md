@@ -188,6 +188,6 @@ $ tree
 
 主要文件夹为 **06_exported**
 
-- asv_table.tsv (asv表) 
+- asv_table.tsv (otu/asv表) 
 - taxonomy.tsv  (注释结果表)
 - tree.nwk      (系统进化树)
